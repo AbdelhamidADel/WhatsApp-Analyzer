@@ -8,3 +8,4 @@ requests
 wordcloud
 urlextract
 emojis
+arabic-reshaper
