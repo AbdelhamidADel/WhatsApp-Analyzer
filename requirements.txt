@@ -6,6 +6,6 @@ plotly
 streamlit_lottie
 requests
 wordcloud
-urlextract
+urlextract==1.7.1
 emojis
 arabic-reshaper
