@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://abdelhamidadel-whatsapp-analyzer-app-u1mfme.streamlit.app/)
 # WhatsApp-Analyzer
 Today one of the trendy social media platforms is…. guess what? One and only Whatsapp😅. It is one of the favorite social media platforms among all of us because of its attractive features. It has more than 2B users worldwide and “According to one survey an average user spends more than 195 minutes per week on WhatsApp”. How terrible the above statement is. Leave all these things and let’s understand what actually WhatsApp analyzer means?
 
@@ -9,4 +10,6 @@ Today one of the trendy social media platforms is…. guess what? One and only W
 - make a relation between messages and period time of backup 
 - finding rush hour of message in AM & PM period 
 
-<img src="https://www.cjr.org/wp-content/uploads/2019/10/AdobeStock_283594213_Editorial_Use_Only-1300x500.jpeg"  width="1000" height="300">
+# App
+![whatsapp analyzer](https://user-images.githubusercontent.com/104658866/207447654-719a2c3c-aa4e-48d9-bf3f-c6189d8f39b1.png)
+
