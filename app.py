@@ -13,7 +13,7 @@ import requests
 from plotly.graph_objs import *
 from wordcloud import WordCloud
 from urlextract import URLExtract
-from urlextract import Counter
+from collections import Counter
 import emojis
 #------------------------configuration of page ----------------------------------
 st.set_page_config(page_title='WhatsApp Analyzer',layout="wide",page_icon="📊")
