@@ -13,3 +13,7 @@ Today one of the trendy social media platforms is…. guess what? One and only W
 # App
 ![whatsapp analyzer](https://user-images.githubusercontent.com/104658866/207447654-719a2c3c-aa4e-48d9-bf3f-c6189d8f39b1.png)
 
+# Presentation
+[Click to Download](https://www.canva.com/design/DAFUrbjs-n0/4XJdEsBVAvV8hD0C649y7g/view?utm_content=DAFUrbjs-n0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
+
