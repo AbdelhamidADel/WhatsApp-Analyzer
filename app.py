@@ -159,8 +159,8 @@ st.sidebar.text('3) Choose export without media.')
 st.sidebar.markdown('**Upload your chat text file:**')
 filename = st.sidebar.file_uploader("", type=["txt"])
 lang = st.sidebar.radio(
-    "What is the language of messages?",
-    ('Latin', 'Other'))
+    "What type of operating system?",
+    ('Ios', 'Android'))
 
 # =========================================================
 st.markdown("<h1 style='text-align: center; color: white;'>Chat Analysis Dashboard </h1>", unsafe_allow_html=True)
@@ -168,7 +168,7 @@ if filename is None :
     print("")        
 else:
     try:
-        if lang == 'Other':
+        if lang == 'Android':
             x = filename.read().decode("utf-8")
             content = x.splitlines()
             chat = [line.strip() for line in content]    # remove trailing white spaces from line
@@ -217,7 +217,7 @@ else:
                 [],disabled=True)
 
 
-        elif lang == 'Latin':
+        elif lang == 'Ios':
             data1=data_read(filename)
             data1.Date = pd.to_datetime(data1.Date)
 
