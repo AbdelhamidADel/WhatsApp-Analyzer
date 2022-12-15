@@ -4,7 +4,6 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from plotly.subplots import make_subplots
 import arabic_reshaper
-from bidi.algorithm import get_display
 from plotly.offline import plot
 import plotly.graph_objects as go
 import plotly.express as px
